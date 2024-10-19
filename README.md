@@ -23,7 +23,7 @@ Repositório destinado a armazenar o resultado de diferentes pesquisas voltadas 
 
 ***
 
-### **Paradigma Funcional**
+## **Paradigma Funcional**
 Primeiramente, é importante destacar que na programação, um paradigma pode ser visto como um conjunto de **princípios** e **conceitos** que orientam a maneira como o código é escrito e organizado.
 
 O paradigma da programação funcional é um paradigma de programação que se concentra na avaliação de expressões e na aplicação de funções matemáticas. É um paradigma de programação **declarativo** que se baseia em **funções puras** e na imutabilidade de dados.
@@ -45,7 +45,7 @@ O paradigma da programação funcional é um paradigma de programação que se c
 
 ***
 
-### **F#(F SHARP)**
+## **F#(F SHARP)**
 F# combina a simplicidade e a expressividade das linguagens funcionais com a eficiência das linguagens imperativas, o que a torna uma escolha poderosa para diversos tipos de aplicações.
 
 ***
