@@ -9,6 +9,7 @@ Repositório destinado a armazenar o resultado de diferentes pesquisas voltadas 
 #### **Alunos:**
    * João Victor Costa de Queiroz - Matrícula: 30016690
    * Raiel ferreira de araujo - Matrícula: 29183502
+   * Jean Paulo Teófilo Chaves - Matrícula: 29182425
 
 ***
 
@@ -37,7 +38,9 @@ O paradigma da programação funcional é um paradigma de programação que se c
    * OCALM
    * F#
 
-
+***
 
 ### **F#(F SHARP)**
 F# combina a simplicidade e a expressividade das linguagens funcionais com a eficiência das linguagens imperativas, o que a torna uma escolha poderosa para diversos tipos de aplicações.
+
+***
