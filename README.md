@@ -2,14 +2,14 @@
 Repositório destinado a armazenar o resultado de diferentes pesquisas voltadas para o Paradigma Funcional.
 
 
-## Professora: Kadidja Valéria
+### Professora: Kadidja Valéria
 #### Alunos:
 * João Victor Costa de Queiroz - Matrícula: 30016690
 * Raiel ferreira de araujo - Matrícula: 29183502
 
 
 ## Data da Apresentação: 
-Paradigma Funcional: 21/10/2024
+* Paradigma Funcional: 21/10/2024
 
 
 ***
