@@ -8,20 +8,21 @@ Repositório destinado a armazenar o resultado de diferentes pesquisas voltadas 
 * João Victor Costa de Queiroz - Matrícula: 30016690
 * Raiel ferreira de araujo - Matrícula: 29183502
 
-===
+---
 
 ### Data da Apresentação:
 -
 Paradigma Funcional: 21/10/2024
 
-===
+---
 
 ## Paradigma Funcional
+-
  Primeiramente, é importante destacar que na programação, um paradigma pode ser visto como um conjunto de **princípios** e **conceitos** que orientam a maneira como o código é escrito e organizado.
 
  O paradigma da programação funcional é um paradigma de programação que se concentra na avaliação de expressões e na aplicação de funções matemáticas. É um paradigma de programação **declarativo** que se baseia em **funções puras** e na imutabilidade de dados.
 
-Características
+#### **Características:**
 * Não utiliza **estrutura de repetições** e sim **funções Recursivas** </li>
 * Foca na avaliação de expressões e na construção de funções matemáticas </li>
 * Ver a computação como uma avaliação de funções</li>
