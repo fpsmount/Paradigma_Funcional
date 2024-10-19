@@ -18,6 +18,11 @@ Repositório destinado a armazenar o resultado de diferentes pesquisas voltadas 
 
 ***
 
+### **Link da Apresentação:**
+   *[ Paradigma Funcional: 21/10/2024](https://view.genially.com/66f178615bdbfb34e3d4ea2d/learning-experience-didactic-unit-programacao-funcional)
+
+***
+
 ### **Paradigma Funcional**
 Primeiramente, é importante destacar que na programação, um paradigma pode ser visto como um conjunto de **princípios** e **conceitos** que orientam a maneira como o código é escrito e organizado.
 
