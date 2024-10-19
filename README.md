@@ -1,20 +1,20 @@
 # Paradigmas de Linguagens de Programação - Funcional
 Repositório destinado a armazenar o resultado de diferentes pesquisas voltadas para o Paradigma Funcional.
 
----
+
 
 ### Professora: Kadidja Valéria
 #### Alunos:
 * João Victor Costa de Queiroz - Matrícula: 30016690
 * Raiel ferreira de araujo - Matrícula: 29183502
 
----
+
 
 ### Data da Apresentação:
 -
 Paradigma Funcional: 21/10/2024
 
----
+
 
 ## Paradigma Funcional
 -
@@ -37,8 +37,8 @@ Paradigma Funcional: 21/10/2024
 * OCALM
 * F#
 
----
+
 
 ## F#(F SHARP)
-
+-
 F# combina a simplicidade e a expressividade das linguagens funcionais com a eficiência das linguagens imperativas, o que a torna uma escolha poderosa para diversos tipos de aplicações.
