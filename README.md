@@ -10,8 +10,8 @@ Repositório destinado a armazenar o resultado de diferentes pesquisas voltadas 
 
 
 
-### Data da Apresentação: -
-  *
+### Data da Apresentação: 
+*****
 Paradigma Funcional: 21/10/2024
 
 
