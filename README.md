@@ -19,7 +19,7 @@ Repositório destinado a armazenar o resultado de diferentes pesquisas voltadas 
 ***
 
 ### **Link da Apresentação:**
-   *[ Paradigma Funcional: 21/10/2024](https://view.genially.com/66f178615bdbfb34e3d4ea2d/learning-experience-didactic-unit-programacao-funcional)
+   *[ Link ](https://view.genially.com/66f178615bdbfb34e3d4ea2d/learning-experience-didactic-unit-programacao-funcional)
 
 ***
 
