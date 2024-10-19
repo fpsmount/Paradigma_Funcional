@@ -1,19 +1,19 @@
 # Paradigmas de Linguagens de Programação - Funcional
 Repositório destinado a armazenar o resultado de diferentes pesquisas voltadas para o Paradigma Funcional.
 
-***
 
-### Professora: Kadidja Valéria
+## Professora: Kadidja Valéria
 #### Alunos:
 * João Victor Costa de Queiroz - Matrícula: 30016690
 * Raiel ferreira de araujo - Matrícula: 29183502
 
-***
 
-### Data da Apresentação: 
+## Data da Apresentação: 
 Paradigma Funcional: 21/10/2024
 
+
 ***
+
 
 ## Paradigma Funcional
  Primeiramente, é importante destacar que na programação, um paradigma pode ser visto como um conjunto de **princípios** e **conceitos** que orientam a maneira como o código é escrito e organizado.
