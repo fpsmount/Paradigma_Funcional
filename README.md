@@ -1,7 +1,7 @@
 # Paradigmas de Linguagens de Programação - Funcional
 
-**Descrição:v
-Repositório destinado a armazenar o resultado de diferentes pesquisas voltadas para o Paradigma Funcional.
+**Descrição:**
+Repositório destinado a armazenar o resultado de diferentes pesquisas voltadas para o Paradigma Funcional e a linguagem F#.
 
 ***
 
