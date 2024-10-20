@@ -7,6 +7,7 @@ Repositório destinado a armazenar o resultado de diferentes pesquisas voltadas 
 
 ### **Professora: Kadidja Valéria**
 #### **Alunos:**
+   * Igor Miranda Moura - Matrícula: 30278660
    * Igor Nunes Araújo dos Reis - Matrícula: 30045193
    * Jean Paulo Teófilo Chaves - Matrícula: 29182425
    * João Victor Costa de Queiroz - Matrícula: 30016690
