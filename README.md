@@ -94,10 +94,10 @@ F# combina a simplicidade e a expressividade das linguagens funcionais com a efi
     * [Prós e Contras](https://portaldesenvolvedor.com/blog/f-veja-pros-e-contras/)
     * [Linguagens Funcionais](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_funcional)
   * **Linguagem F#**
-  * [Documentação Microsot - O que é F#?](https://learn.microsoft.com/pt-br/dotnet/fsharp/what-is-fsharp)
-  * [Documentação Microsot - Sintaxe](https://learn.microsoft.com/pt-br/dotnet/fsharp/language-reference/verbose-syntax)
-  * Gemini AI
-  * Chat GPT
-  * [Sintaxe Detalhada](https://learn.microsoft.com/pt-br/dotnet/fsharp/language-reference/verbose-syntax)
+    * [Documentação Microsot - O que é F#?](https://learn.microsoft.com/pt-br/dotnet/fsharp/what-is-fsharp)
+    * [Documentação Microsot - Sintaxe](https://learn.microsoft.com/pt-br/dotnet/fsharp/language-reference/verbose-syntax)
+    * Gemini AI
+    * Chat GPT
+    * [Sintaxe Detalhada](https://learn.microsoft.com/pt-br/dotnet/fsharp/language-reference/verbose-syntax)
 
 ***
