@@ -26,7 +26,7 @@ Repositório destinado a armazenar o resultado de diferentes pesquisas voltadas 
 ***
 
 ### **Gabarito QUIZ:**
-   * [ Paradigma Funcional ](https://docs.google.com/spreadsheets/d/1Kh78eKcp6aeNvTIqKl2APwW80aGetFpsJvRgJsC5J0s/edit?usp=sharing)
+   * [ GABARITO ](https://docs.google.com/spreadsheets/d/1Kh78eKcp6aeNvTIqKl2APwW80aGetFpsJvRgJsC5J0s/edit?usp=sharing)
 
 ***
 
