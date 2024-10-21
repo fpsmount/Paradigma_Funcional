@@ -71,7 +71,7 @@ F# combina a simplicidade e a expressividade das linguagens funcionais com a efi
 
 ## **Bibliografia**
   * **Paradigmas**
-    * [O que é Paradigma?](https://pt.wikipedia.org/wiki/Paradigma#:~:text=Paradigma%20(do%20latim%20tardio%20paradigma,um%20padr%C3%A3o%20a%20ser%20seguido.)
+    * Wikipedia
     * Chat GPT
     * Gemini AI
     * "Structure and Interpretation of Computer Programs" de Harold Abelson e Gerald Jay Sussman, que discute a evolução das ideias de programação funcional.
