@@ -25,6 +25,11 @@ Repositório destinado a armazenar o resultado de diferentes pesquisas voltadas 
 
 ***
 
+### **Gabarito QUIZ:**
+   * [ Paradigma Funcional ](https://docs.google.com/spreadsheets/d/1Kh78eKcp6aeNvTIqKl2APwW80aGetFpsJvRgJsC5J0s/edit?usp=sharing)
+
+***
+
 ## **Paradigma Funcional**
 Primeiramente, é importante destacar que na programação, um paradigma pode ser visto como um conjunto de **princípios** e **conceitos** que orientam a maneira como o código é escrito e organizado.
 
